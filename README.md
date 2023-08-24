@@ -91,12 +91,6 @@
 <a href="https://t.me/WD_Contact_Bot"><img src="https://img.shields.io/badge/-Contact Bot%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
 
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
-  </div> 
-</p>
 -----
 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING)
 
