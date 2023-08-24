@@ -73,6 +73,8 @@ A `.gitignore` magician in your command line. Joe generates `.gitignore` files f
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="https://t.me/Opleech"><img src="https://img.shields.io/badge/-WOODcraft%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/WD_Topic_Group"><img src="https://img.shields.io/badge/-WOODcraft%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://t.me/Opleech"><img src="https://img.shields.io/badge/-WOODcraft%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>  
 <a href="https://t.me/Opleech"><img title="Telegram" src="https://img.shields.io/static/v1?label=WD.Zone&message=TG&color=blue-green"></a>
 </p>
