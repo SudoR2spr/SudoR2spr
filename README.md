@@ -29,10 +29,15 @@
 <p align="left">
 - 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
   
-A `.gitignore` magician in your command line. Joe generates `.gitignore` files from the command line for you.
+---
 
-![](http://i.imgur.com/2tAksHG.gif)</p>
-<p align="center">
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/4hyVrAsoKKjxAvQjPRt0ai)
+
+---
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=SudoR2spr&cc=000&tc=fff&ic=fff&bc=000" align="center">
