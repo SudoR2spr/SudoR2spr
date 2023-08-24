@@ -3,7 +3,7 @@
 
 // To view the default settings, hold "alt" while clicking on the "Settings" button.
 // For documentation on these settings, see: https://aka.ms/terminal-documentation
-
+{
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
