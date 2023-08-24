@@ -94,6 +94,6 @@
 
 
 -----
-Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭]([https://github.com/HridoyHazard](https://github.com/SudoR2spr)https://github.com/SudoR2spr)
+Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://github.com/SudoR2spr)https://github.com/SudoR2spr)
 
 Last Edited on: 08/25/2023
