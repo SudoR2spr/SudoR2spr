@@ -18,8 +18,9 @@
   
 <p align="center">
 A `.gitignore` magician in your command line. Joe generates `.gitignore` files from the command line for you.
+
+![](http://i.imgur.com/2tAksHG.gif)</p>
 <p align="center">
-![](http://i.imgur.com/2tAksHG.gif) align="center">
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=SudoR2spr&cc=000&tc=fff&ic=fff&bc=000" align="center">
