@@ -11,6 +11,9 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm SudoR2spr</h2>
 
+<!-- VISTAS DEL PERFIL -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SudoR2spr&label=Profile%20views&color=0e75b6&style=flat" alt="SudoR2spr" /> </p>
+
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
