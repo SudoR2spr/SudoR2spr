@@ -11,6 +11,10 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm SudoR2spr</h2>
 
+<div align="center">
+<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SudoR2spr&label=Profile%20views&color=0e75b6&style=flat" alt="SudoR2spr" /> </p>
 
