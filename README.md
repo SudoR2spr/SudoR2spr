@@ -8,3 +8,8 @@
 
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SudoR2spr&&show_icons=true&theme=midnight-purple" alt="SudoR2spr"/></p> 
+
+  <p align="center">
+Used Languages 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoR2spr&layout=compact&theme=tokyonight" align="center">
+
