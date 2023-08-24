@@ -90,7 +90,7 @@
 <a href="https://t.me/Opleech"><img title="Telegram" src="https://img.shields.io/static/v1?label=WD.Zone&message=TG&color=blue-green"></a>
 <a href="https://t.me/WD_Contact_Bot"><img src="https://img.shields.io/badge/-Contact Bot%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
-
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 -----
 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING)
 
