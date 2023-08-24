@@ -28,12 +28,7 @@ A `.gitignore` magician in your command line. Joe generates `.gitignore` files f
 </p>
 
 
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SudoR2spr&&show_icons=true&theme=midnight-purple" alt="SudoR2spr"/></p> 
-
-
-
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack 🌺
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
