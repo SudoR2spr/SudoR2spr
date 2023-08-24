@@ -2,5 +2,5 @@
 
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=SudoR2spr&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=SudoR2spr&cc=" align="center">
 </p>
