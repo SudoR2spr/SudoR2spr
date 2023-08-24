@@ -16,7 +16,6 @@
 <p align="left">
 - 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
   
-<p align="center">
 A `.gitignore` magician in your command line. Joe generates `.gitignore` files from the command line for you.
 
 ![](http://i.imgur.com/2tAksHG.gif)</p>
