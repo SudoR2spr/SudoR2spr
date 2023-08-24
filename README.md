@@ -35,7 +35,7 @@ A `.gitignore` magician in your command line. Joe generates `.gitignore` files f
 <img src="https://github-stats-alpha.vercel.app/api?username=SudoR2spr&cc=000&tc=fff&ic=fff&bc=000" align="center">
 </p>
 
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/Night-Coding.gif" align="right"/>
 ### 🛠 &nbsp;Tech Stack 🌺
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
