@@ -6,4 +6,5 @@
 </p>
 
 
-https://github-stats-alpha.vercel.app/api?username=SudoR2spr&cc=000&tc=fff&ic=fff&bc=000
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SudoR2spr&&show_icons=true&theme=midnight-purple" alt="SudoR2spr"/></p> 
