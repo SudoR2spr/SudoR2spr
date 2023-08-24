@@ -31,11 +31,6 @@ A `.gitignore` magician in your command line. Joe generates `.gitignore` files f
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SudoR2spr&&show_icons=true&theme=midnight-purple" alt="SudoR2spr"/></p> 
 
-  <p align="center">
-Used Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoR2spr&layout=compact&theme=tokyonight" align="center">
-
-<a href="https://t.me/Opleech"><img title="Telegram" src="https://img.shields.io/static/v1?label=WD.Zone&message=TG&color=blue-green"></a>
 
 
 ### 🛠 &nbsp;Tech Stack
