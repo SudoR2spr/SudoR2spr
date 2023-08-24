@@ -15,10 +15,10 @@
 • 𝚆𝚘𝚛𝚔 : Plywood furniture 10 𝚢𝚎𝚊𝚛
 <p align="left">
 - 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
-
+<p align="center">
 A `.gitignore` magician in your command line. Joe generates `.gitignore` files from the command line for you.
 
-![](http://i.imgur.com/2tAksHG.gif)
+![](http://i.imgur.com/2tAksHG.gif) align="center">
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=SudoR2spr&cc=000&tc=fff&ic=fff&bc=000" align="center">
