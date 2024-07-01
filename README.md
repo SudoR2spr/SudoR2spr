@@ -21,13 +21,13 @@
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
-• 𝙼𝚢 𝙽𝚊𝚖𝚎 : SudoR2spr 😉
+• 𝙼𝚢 𝙽𝚊𝚖𝚎 : 𝐅𝐚𝐫𝐨𝐨𝐪 𝐒𝐡𝐞𝐢𝐤𝐡 😉
 <p align="left">
-• 𝙰𝚐𝚎 : 28
+• 𝙰𝚐𝚎 : 30
 <p align="left">
-• 𝙿𝚕𝚊𝚌𝚎 : 𝙺olkata
+• 𝙿𝚕𝚊𝚌𝚎 : Kolkata West Bengal
 <p align="left">
-• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Bangli,Hindi,
+• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Bangli,Hindi,ENG (Noob)
 <p align="left">
 • 𝚆𝚘𝚛𝚔 : Plywood furniture 10 𝚢𝚎𝚊𝚛
 <p align="left">
@@ -94,4 +94,4 @@
 -----
 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING)
 
-Last Edited on: 01/10/2023
+Last Edited on: 02/07/2024
