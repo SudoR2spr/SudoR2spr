@@ -3,7 +3,7 @@
 
 <!-- GIF HEADER -->
 <video width="320" height="240" controls>
-  <source src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/Noor.mp4" type="video/mp4">
+  <source src="./assets/Noor.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 </video>
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/Noor.mp4">
