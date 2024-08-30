@@ -2,7 +2,7 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/wood.gif" width="100%">
+<img src="https://github.com/SudoR2spr/SudoR2spr/blob/main/assets/angel-op/spiderman.gif" width="100%">
 
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
