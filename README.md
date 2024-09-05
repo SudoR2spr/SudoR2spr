@@ -31,21 +31,23 @@
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SudoR2spr&label=Profile%20views&color=0e75b6&style=flat" alt="SudoR2spr" /> </p>
 
-<p align="left">
-𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
-<p align="left">
-• 𝙼𝚢 𝙽𝚊𝚖𝚎 : 𝐅𝐚𝐫𝐨𝐨𝐪 𝐒𝐡𝐞𝐢𝐤𝐡 😉
-<p align="left">
-• 𝙰𝚐𝚎 : 30
-<p align="left">
-• 𝙿𝚕𝚊𝚌𝚎 : Kolkata West Bengal
-<p align="left">
-• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Bangli,Hindi,ENG (Noob)
-<p align="left">
-• 𝚆𝚘𝚛𝚔 : Plywood furniture 10 𝚢𝚎𝚊𝚛
-<p align="left">
-- 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
-  
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on **Furniture**
+
+- 🌱 I’m currently learning **Timepass**
+
+-  👨‍💻 𝙼𝚢 𝙽𝚊𝚖𝚎 **𝐅𝐚𝐫𝐨𝐨𝐪 𝐒𝐡𝐞𝐢𝐤𝐡**
+
+- 🌼 𝙰𝚐𝚎 **30**
+
+- 📍 𝙿𝚕𝚊𝚌𝚎 **Kolkata West Bengal**
+
+- 📄 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 **Bangli,Hindi,ENG (Noob)**
+
+- ⚡ Fun fact **I think I'm funny**
+ 
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
