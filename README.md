@@ -14,6 +14,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SudoR2spr!;" />
 </h1>
 
+<h2 align="center">Leetcode Stats:<h2>
+
+
+<p align="center">
+  <a href="https://t.me/Opleech_WD/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Star.gif" alt="Star" height="200" width="200" /></a>
+  <a href="https://t.me/Opleech/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/fire.gif" alt="fire" height="200" width="200" /></a>
+  <a href="https://t.me/WD_Request_Bot/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Telegram.gif" alt="Telegram" height="200" width="200" /></a>
+  <a href="https://t.me/Opleech_WD/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/fish.gif" alt="fish" height="200" width="200" /></a>
+</p>
+
 <div align="center">
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
