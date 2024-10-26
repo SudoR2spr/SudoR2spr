@@ -18,10 +18,10 @@
 
 
 <p align="center">
-  <a href="https://t.me/Opleech_WD/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Star.gif" alt="Star" height="200" width="200" /></a>
-  <a href="https://t.me/Opleech/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/fire.gif" alt="fire" height="200" width="200" /></a>
-  <a href="https://t.me/WD_Request_Bot/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Telegram.gif" alt="Telegram" height="200" width="200" /></a>
-  <a href="https://t.me/Opleech_WD/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/fish.gif" alt="fish" height="200" width="200" /></a>
+  <a href="https://t.me/Opleech_WD/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Star.gif" alt="Star" height="150" width="150" /></a>
+  <a href="https://t.me/Opleech/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/fire.gif" alt="fire" height="150" width="150" /></a>
+  <a href="https://t.me/WD_Request_Bot/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Telegram.gif" alt="Telegram" height="150" width="150" /></a>
+  <a href="https://t.me/Opleech_WD/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/fish.gif" alt="fish" height="150" width="150" /></a>
 </p>
 
 <div align="center">
@@ -113,4 +113,4 @@ Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING)
 [![Contact Me On Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Farooq_is_king)
 
 <hr>
-<h3><img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/Premium-icon/clock-time.gif" align="center" width="50"> Last Edited on: 15/10/2024</h3>
+<h3><img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/Premium-icon/clock-time.gif" align="center" width="50"> Last Edited on: 26/10/2024</h3>
