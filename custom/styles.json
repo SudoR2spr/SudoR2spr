@@ -1,0 +1,68 @@
+{
+    "Futurepunk V4":{
+        "id":2000,
+        "style":115,
+        "image":"https://i.ibb.co/sJSpPfv/fade1bc36acb.jpg",
+        "prompt":"Warmly lit close up studio portrait of {PROMPT} as cyberpunk fashion model, (Cyberpunk brand new clothing), (neon eyes), (robotic head), half body, highly face detailed, looking at cam, (by alphonse mucha), mucha, artstation, pastel colors, splashart, artistic, detailed body, 8k, (hyper realistic), 4k, body, final fantasy, tiny cloth–s 250 –ar 2:1 –v 5"
+    },
+    "Character V4":{
+        "id":2001,
+        "style":115,
+        "image":"https://i.ibb.co/6srqDfQ/f53259b9324e.jpg",
+        "prompt":"Warmly lit close up studio portrait of {PROMPT} as fashion model, (Sport clothing), half body, highly face detailed, looking at cam, (by alphonse mucha), mucha, artstation, pastel colors, splashart, artistic, detailed body, 8k, (hyper realistic), 4k, body, final fantasy, tiny cloth–s 250 –ar 2:1 –v 5"
+    },
+    "Cinematic V4":{
+        "id":2002,
+        "style":115,
+        "image":"https://i.ibb.co/HKrYTnZ/27b6e6ecb4c4.jpg",
+        "prompt":"{PROMPT}, photorealistic, highly detailed, digital illustration, trending in artstation, classical painting, smooth, sharp focus artstation concept art, illustration, cinematic lighting, art by artgerm and greg rutkowski and alphonse mucha"
+    },
+    "Steampunk V4":{
+        "id":2005,
+        "style":115,
+        "image":"https://i.ibb.co/ngYHRpc/9ba8e61e6aab.jpg",
+        "prompt":"hyperrealistic neo - rococo steampunk {PROMPT}. highly detailed digital art masterpiece, smooth cam de leon eric zener dramatic pearlescent soft light, backgroud black, ground angle hd 8 k, sharp focus"
+    },
+    "Fujifilm V4":{
+        "id":2006,
+        "style":115,
+        "image":"https://i.ibb.co/2qMLd31/e6e9190e2175.jpg",
+        "prompt":"{PROMPT}, (cinematic lighting, ultra-realistic), ((8k uhd, dslr, soft lighting, high quality, film grain, fujifilm xt3))"
+    },
+    "Van Gogh V4":{
+        "id":2008,
+        "style":78,
+        "image":"https://i.ibb.co/0Q4D9Lr/19c23dbb9617.jpg",
+        "prompt":"({PROMPT}), (By Van gogh and Wlop), Van gogh style, beautiful detailed, dramatic lighting, painting style, (oil painting), van gogh painting, dim lighting, gloomy, (artstation), (Deviantart), artstation cgsociety"
+    },
+    "Exprealism V4":{
+        "id":2009,
+        "style":78,
+        "image":"https://i.ibb.co/Y0tdbJv/a1a3bf6e31fb.jpg",
+        "prompt":"Warmly lit close up studio portrait of {PROMPT}, (impasto oil painting thick brushstrokes by Lucian Freud and Cy Twombly and Tim Hawkinson), (artstation), (Deviantart), dramatic lighting, (Expressionism style), artistic"
+    },
+    "Zdzislaw V4":{
+        "id":2010,
+        "style":115,
+        "image":"https://i.ibb.co/dQTSzqt/df0c543d4d69.jpg",
+        "prompt":"(({PROMPT})), (By Zdzisław Beksiński), surreal art, dark art, horror art, ominous tones and incorporate elements of horror. Zdzisław Beksiński's signature style of distorted and twisted forms, focus on organic shapes and textures, sense of unease and mystery, surreal and dreamlike quality, viewer to another world"
+    },
+    "Neonic V4":{
+        "id":2011,
+        "style":115,
+        "image":"https://i.ibb.co/QXW6C8m/ff0c543d4d22.jpg",
+        "prompt":"((Warmly lit close up studio picture of {PROMPT})), delicate features, cyberpunk armor, neon, hyper detail, tech. gold. synthwave aesthetic. lighting. crystal. Ultra realistic. plasma. neon glow. Fine details. Volumetric light. octane render. 8k. --q 2 --ar 9:16"
+    },
+    "Complex System V4":{
+        "id":2012,
+        "style":115,
+        "image":"https://i.ibb.co/9YpHdRW/13ec639454a9.jpg",
+        "prompt":"3d rendering, Tsutomu Nihei, complex system, equipment with hyper detail, ({PROMPT}), sci-fi, dystoia, super complex and giant structures backdrop, gloomy futuristic environment, fog, dramatic lighting, Unreal engine 5, RTX shader, detail texture, cyber screen, rustic, realism ambience --ar 9:16 --style raw --stylize 700"
+    },
+    "Stick Logo V4":{
+        "id":2013,
+        "style":115,
+        "image":"https://i.ibb.co/64cnNDL/256455a6b961.jpg",
+        "prompt":"A simple minimalistic logo, stick figures, (clean lines), (high contrast), (black background), black outlines, png logo format. ({PROMPT})"
+    }
+}
